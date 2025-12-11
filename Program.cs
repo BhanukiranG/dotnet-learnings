@@ -71,22 +71,3 @@ namespace RestaurantApp
         }
     }
 }
-
-
-// RestaurantApp
-// │
-// ├── Program.cs
-// ├── Models/
-// │   ├── MenuItem.cs
-// │   ├── FoodItem.cs
-// │   ├── DrinkItem.cs
-// │   ├── Order.cs
-// │
-// ├── Interfaces/
-// │   └── IOrderService.cs
-// │
-// ├── Services/
-// │   └── OrderService.cs
-// │
-// └── Utils/
-//     └── InputHelper.cs
