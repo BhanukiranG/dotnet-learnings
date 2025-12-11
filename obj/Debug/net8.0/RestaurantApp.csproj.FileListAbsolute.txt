@@ -1,0 +1,14 @@
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.AssemblyInfoInputs.cache
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.AssemblyInfo.cs
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.csproj.CoreCompileInputs.cache
+/Users/user/Dot Net Projects/RestaurantApp/bin/Debug/net8.0/RestaurantApp
+/Users/user/Dot Net Projects/RestaurantApp/bin/Debug/net8.0/RestaurantApp.deps.json
+/Users/user/Dot Net Projects/RestaurantApp/bin/Debug/net8.0/RestaurantApp.runtimeconfig.json
+/Users/user/Dot Net Projects/RestaurantApp/bin/Debug/net8.0/RestaurantApp.dll
+/Users/user/Dot Net Projects/RestaurantApp/bin/Debug/net8.0/RestaurantApp.pdb
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.dll
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/refint/RestaurantApp.dll
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.pdb
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/RestaurantApp.genruntimeconfig.cache
+/Users/user/Dot Net Projects/RestaurantApp/obj/Debug/net8.0/ref/RestaurantApp.dll
